@@ -51,8 +51,8 @@ For this basic Wi-Fi monitoring sketch, no external components are needed.
 |-----------|--------------------|
 | USB       | Computer (via cable)|
 
-> ⚠️ Make sure you're using a **USB data cable** (not just a charging cable) to upload the code and view Serial Monitor output.
-> ⚠️Make sure to power the ESP32 through USB when programming and running the sketch.
+> -⚠️ Make sure you're using a **USB data cable** (not just a charging cable) to upload the code and view Serial Monitor output.
+> -⚠️Make sure to power the ESP32 through USB when programming and running the sketch.
 
 ---
 
